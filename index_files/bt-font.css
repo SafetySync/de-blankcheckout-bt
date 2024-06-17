@@ -1,0 +1,90 @@
+@font-face {
+    font-family: SequelSans;
+    src: url("../fonts/SequelSans-RomanBody.woff") format('woff'),
+    url("../fonts/SequelSans-RomanBody.woff2") format('woff2'),
+    url("SequelSans-RomanBody.eot") format('embedded-opentype'),
+    url("SequelSans-RomanBody.ttf") format('truetype'),
+    url("SequelSans-RomanBody.svg") format('svg');
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+}
+
+@font-face {
+    font-family: SequelSans;
+    src: url("../fonts/SequelSans-Body.woff") format('woff'),
+    url("../fonts/SequelSans-Body.woff2") format('woff2');
+    font-style: normal;
+    font-weight: 500;
+    font-display: block;
+}
+
+@font-face {
+    font-family: SequelSans;
+    src: url("../fonts/SequelSans-ObliqueBody.woff") format('woff'),
+    url("SequelSans-ObliqueBody.eot") format('embedded-opentype'),
+    url("SequelSans-ObliqueBody.ttf") format('truetype'),
+    url("SequelSans-ObliqueBody.svg") format("svg");
+    font-style: oblique;
+    font-weight: 500;
+    font-display: block;
+}
+
+@font-face {
+    font-family: SequelSans;
+    src: url("../fonts/SequelSans-BoldBody.woff") format('woff'),
+    url("../fonts/SequelSans-BoldBody.woff2") format('woff2'),
+    url("SequelSans-BoldBody.eot") format('embedded-opentype'),
+    url("SequelSans-BoldBody.ttf") format('truetype'),
+    url("SequelSans-BoldBody.svg") format("svg");
+    font-style: normal;
+    font-weight: 600;
+    font-display: block;
+}
+
+@font-face {
+    font-family: SequelSans;
+    src: url("SequelSans-BoldOblBody.woff") format('woff'),
+    url("SequelSans-BoldOblBody.eot") format('embedded-opentype'),
+    url("SequelSans-BoldOblBody.ttf") format('truetype'),
+    url("SequelSans-BoldOblBody.svg") format("svg");
+    font-style: oblique;
+    font-weight: 600;
+    font-display: block;
+}
+
+@font-face {
+    font-family: SequelSans;
+    src: url("../fonts/SequelSans-BlackBody.woff") format('woff'),
+    url("../fonts/SequelSans-BlackBody.woff2") format('woff2'),
+    url("SequelSans-BlackBody.eot") format('embedded-opentype'),
+    url("SequelSans-BlackBody.ttf") format('truetype'),
+    url("SequelSans-BlackBody.svg") format("svg");
+    font-style: normal;
+    font-weight: 700;
+    font-display: block;
+}
+
+@font-face {
+    font-family: SequelSans;
+    src: url("SequelSans-BlackOblBody.woff") format('woff'),
+    url("SequelSans-BlackOblBody.woff2") format('woff2'),
+    url("SequelSans-BlackOblBody.eot") format('embedded-opentype'),
+    url("SequelSans-BlackOblBody.ttf") format('truetype'),
+    url("SequelSans-BlackOblBody.svg") format("svg");
+    font-style: oblique;
+    font-weight: 700;
+    font-display: block;
+}
+
+@font-face {
+    font-family: bt-icons;
+    src: url("bt-icons.woff2") format('woff2'),
+    url("bt-icons.woff") format('woff'),
+    url("bt-icons.eot") format('embedded-opentype'),
+    url("bt-icons.ttf") format('truetype'),
+    url("bt-icons.svg") format("svg");
+    font-style: normal;
+    font-weight: 300;
+    font-display: block;
+}
